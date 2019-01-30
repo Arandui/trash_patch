@@ -5,7 +5,7 @@
 		"pc98_bgm": "PC98 BGM für TH06, TH07, TH08, TH09 und TH095"
 	},
 	"servers": [
-		"https://github.com/Arandui/trash_patch.git"
+		"https://raw.githubusercontent.com/Arandui/trash_patch/master/"
 	],
 	"title": "Trash Ideas"
 }
