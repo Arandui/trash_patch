@@ -202,8 +202,6 @@ Stage 4: いざ、倒れ逝くその時まで
 
 Stage 5: 星幽天使
 
-Es wurde jeweils die Lieder entsprechend den Situationen zugewiesen.
-Teilweise wurde zum Auffüllen ungenutze Lieder benutzt.
 
 
 # th07_ut_bgm
