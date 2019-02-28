@@ -4,7 +4,7 @@
 	"patches": {
 		"pc98_bgm": "PC98 BGM für TH06-9.5",
 		"th07_ut_bgm": "TH07 mit Undertale BGM",
-		"unhöfliche_okuu": "Macht Okuu unhöflicher"
+		"unhöfliche_okuu": "Macht Okuu unhöflich"
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/Arandui/trash_patch/master/"
