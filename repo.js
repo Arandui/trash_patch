@@ -3,7 +3,8 @@
 	"id": "Arandui",
 	"patches": {
 		"pc98_bgm": "PC98 BGM für TH06-9.5",
-		"th07_ut_bgm": "TH07 mit Undertale BGM"
+		"th07_ut_bgm": "TH07 mit Undertale BGM",
+		"unhöfliche_okuu": "unhöfliche_okuu"
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/Arandui/trash_patch/master/"
