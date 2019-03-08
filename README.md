@@ -232,15 +232,15 @@ Boss 5: Spider Dance
 
 Stage 6: Stronger Monsters
 
-Boss 6: Last Goodbye
+Boss 6: Hopes and Dreams
 
-Boss 6.2: Hopes and Dreams
+Boss 6.2: Don't give up
 
 Extra Stage: Core
 
 Extra Boss: Death by Glamoure
 
-Phantasm Stage: 
+Phantasm Stage: Amalgam
 
 Phantasm Boss: Megalovania
 
