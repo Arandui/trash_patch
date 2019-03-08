@@ -207,3 +207,48 @@ Stage 5: 星幽天使
 # th07_ut_bgm
 
 th07 mit Musik aus Undertale.
+
+Hauptmenü: Start Menu
+
+Stage 1: Anticipation
+
+Boss 1: Bonetrousle
+
+Stage 2: Dating Start
+
+Boss 2: Dating Fight
+
+Stage 3: Undyne
+
+Boss 3: Dummy
+
+Stage 4: Snowdin Town
+
+Boss 4: Can you really call this a Hotel, I didn't receive a mint on my pillow or anything
+
+Stage 5: Another medium
+
+Boss 5: Spider Dance
+
+Stage 6: Stronger Monsters
+
+Boss 6: Last Goodbye
+
+Boss 6.2: Hopes and Dreams
+
+Extra Stage: Core
+
+Extra Boss: Death by Glamoure
+
+Phantasm Stage: 
+
+Phantasm Boss: Megalovania
+
+Ende: Dogsong
+
+Abspann: Good Night
+
+
+# Unhöfliche Okuu
+
+Macht Okuu in th11 etwas unhöflicher
