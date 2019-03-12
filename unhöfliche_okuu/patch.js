@@ -6,5 +6,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/Arandui/trash_patch/master/unhöfliche_okuu/"
 	],
-	"title": "Macht Okuu unhöflich"
+	"title": "Macht Okuu unhöflich (TH11)"
 }
