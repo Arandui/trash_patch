@@ -12,9 +12,9 @@
 	"th06/face00c.png": 3594037308,
 	"th06/face00c_a.png": 2448596438,
 	"th06/player00.png": 3536265159,
-	"th06/slpl00a.png": null,
-	"th06/slpl00a_a.png": null,
-	"th06/slpl00b.png": null,
-	"th06/slpl00b_a.png": null,
+	"th06/slpl00a.png": 2307785203,
+	"th06/slpl00a_a.png": 806409327,
+	"th06/slpl00b.png": 1262967675,
+	"th06/slpl00b_a.png": 3997142538,
 	"th06/title00.jpg": 1644777084
 }
