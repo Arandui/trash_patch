@@ -252,3 +252,8 @@ Abspann: Good Night
 # Unhöfliche Okuu
 
 Macht Okuu in th11 etwas unhöflicher
+
+
+# pc_98_reimu
+
+Ändert sämtliche Grafiken von Reimu um, so das sie wie in den PC98 Teilen aussieht.
