@@ -1,5 +1,5 @@
 {
-	"patch.js": 464634611,
+	"patch.js": 2912346519,
 	"th06/end01.png": 2731428891,
 	"th06/end03.png": 3143093128,
 	"th06/end04.png": 256032525,
@@ -16,5 +16,10 @@
 	"th06/slpl00a_a.png": null,
 	"th06/slpl00b.png": 3052754762,
 	"th06/slpl00b_a.png": null,
-	"th06/title00.jpg": 1644777084
+	"th06/title00.jpg": 1644777084,
+	"th07/face_rm00.png": 914009272,
+	"th07/face_rm01.png": 1313733858,
+	"th07/player00.png": 2049567161,
+	"th07/sl_pl00.png": 1736003662,
+	"th07/title00.jpg": 3258874502
 }
