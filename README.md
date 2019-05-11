@@ -257,3 +257,28 @@ Macht Okuu in th11 etwas unhöflicher
 # pc_98_reimu
 
 Ändert sämtliche Grafiken von Reimu um, so das sie wie in den PC98 Teilen aussieht.
+
+
+# th17_doom_bgm
+
+th17 mit Musik aus Doom, Doom 2 und Final Doom TNT
+
+Aufnahmen von Sycraft http://sycraft.org/content/audio/doom.shtml
+
+Komplette Trackliste:
+
+Hauptmenü: Evil Incarnete (Doom 2)
+
+Stage 1: Smells like burning corpse (Final Doom)
+
+Boss 1: At Doom's Gate (Doom)
+
+Stage 2: Dark Halls (Doom)
+
+Boss 2: Intermission from DOOM (Doom)
+
+Stage 3: I saw the demons (Doom)
+
+Boss 3: Hiding the secrets (Doom)
+
+Spielerscore: Endgame (Doom)
