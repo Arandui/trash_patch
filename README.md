@@ -281,4 +281,4 @@ Stage 3: I saw the demons (Doom)
 
 Boss 3: Hiding the secrets (Doom)
 
-Spielerscore: Endgame (Doom)
+Spielerscore: The ultimate conquest (Doom 2)
