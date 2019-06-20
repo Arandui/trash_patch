@@ -282,3 +282,8 @@ Stage 3: I saw the demons (Doom)
 Boss 3: Hiding the secrets (Doom)
 
 Spielerscore: The ultimate conquest (Doom 2)
+
+
+#th13_spirit_bgm
+
+Ersetzt die Lieder durch die jeweiligen Spirit World Versionen.
