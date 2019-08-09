@@ -2,9 +2,6 @@
 	"dependencies": [
 		"nmlgc/base_tsa"
 	],
-	"fonts": {
-		"DooM.ttf": true
-	},
 	"id": "th17_doom_bgm",
 	"servers": [
 		"https://raw.githubusercontent.com/Arandui/trash_patch/master/th17_doom_bgm/"
