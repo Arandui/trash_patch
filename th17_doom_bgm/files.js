@@ -19,6 +19,6 @@
 	"th17/th17_16.ogg": 2323525845,
 	"th17/th17_17.ogg": 821707325,
 	"th17/th17_18.ogg": 1272972061,
-	"th17/title/rank00.png": 3037625793,
+	"th17/title/rank00.png": 2015076822,
 	"th17/title/rank00tr.png": null
 }
