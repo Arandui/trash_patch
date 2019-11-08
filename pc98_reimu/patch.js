@@ -6,5 +6,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/Arandui/trash_patch/master/pc98_reimu/"
 	],
-	"title": "Ändert Reimus Aussehen zu PC98 (TH06, TH07 WIP)"
+	"title": "Changes Reimus look more PC98-like (TH06, TH07 WIP)"
 }

@@ -6,5 +6,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/Arandui/trash_patch/master/pc98_bgm/"
 	],
-	"title": "PC98 BGM für TH06-9.5"
+	"title": "PC98 BGM for TH06-9.5"
 }

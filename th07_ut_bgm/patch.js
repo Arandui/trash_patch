@@ -6,5 +6,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/Arandui/trash_patch/master/th07_ut_bgm/"
 	],
-	"title": "TH07 mit Undertale BGM"
+	"title": "TH07 with Undertale BGM"
 }
