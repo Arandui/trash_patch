@@ -1,8 +1,8 @@
 # pc98_bgm
 
-Alle Lieder sind von den "Akyu's Untouched Score"-CDs entnommen.
+All tracks are taken from the "Akyu's Untouched Score"-CDs
 
-Zuweisung:
+Assignment:
 
 th06 -> th02
 
@@ -10,17 +10,17 @@ th07 -> th05
 
 th08 -> th04
 
-th09 -> th03 (+ ein Lied aus th04)
+th09 -> th03 (+ a track from th04)
 
 th095 -> th01
 
 
 
-Komplette Tracklisten:
+Tracklists:
 
 th06
 
-Hauptmenü: 東方封魔録　～ 浄土曼荼羅
+Main Menu: 東方封魔録　～ 浄土曼荼羅
 
 Stage 1: 博麗　～ Eastern Wind
 
@@ -38,9 +38,9 @@ Stage 4: ひもろぎ、むらさきにもえ
 
 Boss 4: 恋色マジック
 
-Stage 5: 封魔終演 (ungenutztes Lied)
+Stage 5: 封魔終演 (unused track)
 
-Boss 5: 博麗神社境内 (ungenutztes Lied)
+Boss 5: 博麗神社境内 (unused track)
 
 Stage 6: 東方封魔録　～ 幽幻乱舞
 
@@ -50,15 +50,15 @@ Extra Stage: エキストララブ
 
 Extra Boss: 戦車むすめのみるゆめ
 
-Ende: 遠野の森
+Ending: 遠野の森
 
-Abspann: 昔話わんだーらんど
+Credits: 昔話わんだーらんど
 
 
 
 th07
 
-Hauptmenü: 怪綺談　～ Mystic Square
+Main Menu: 怪綺談　～ Mystic Square
 
 Stage 1: Dream Express
 
@@ -94,15 +94,15 @@ Phantasm Stage: 不思議の国のアリス
 
 Phantasm Boss: the Grimoire of Alice
 
-Ende: 神社
+Ending: 神社
 
-Abspann: Endless
+Credits: Endless
 
 
 
 th08
 
-Hauptmenü: 幻想郷 ～ Lotus Land Story
+Main Menu: 幻想郷 ～ Lotus Land Story
 
 Stage 1: Witching Dream
 
@@ -130,7 +130,7 @@ Stage 6: Dream Land
 
 Boss 6A: 幽夢 ～ Inanimate Dream
 
-Boss 6B: 幽夢 ～ Inanimate Dream (ungenutzte Version)
+Boss 6B: 幽夢 ～ Inanimate Dream (unused version)
 
 Boss 6.2: Arcadian Dream
 
@@ -138,9 +138,9 @@ Extra Stage: 禁じざるをえない遊戯
 
 Extra Boss: メイド幻想 ～ Icemilk Magic
 
-Ende: Days
+Ending: Days
 
-Abspann: Peaceful
+Credits: Peaceful
 
 Last Word: Lotus Road
 
@@ -148,49 +148,49 @@ Last Word: Lotus Road
 
 th09
 
-Hauptmenü: 夢は時空を超えて
+Main Menu: 夢は時空を超えて
 
-Reimu Kampf: 東方妖恋談
+Reimu Battle: 東方妖恋談
 
-Marisa Kampf: Dim. Dream
+Marisa Battle: Dim. Dream
 
-Sakuya Kampf: Maniacal Princess
+Sakuya Battle: Maniacal Princess
 
-Youmu Kampf: Reincarnation
+Youmu Battle: Reincarnation
 
-Reisen Kampf: 夢消失　～ Lost Dream
+Reisen Battle: 夢消失　～ Lost Dream
 
-Cirno Kampf: Tabula rasa　～ 空白少女
+Cirno Battle: Tabula rasa　～ 空白少女
 
-Lyrica Kampf: 夢幻遊戯　～ Dream War
+Lyrica Battle: 夢幻遊戯　～ Dream War
 
-Mystia Kampf: スターボウドリーム (ungenutztes Lied)
+Mystia Battle: スターボウドリーム (unused track)
 
-Tewi Kampf: 時の風 (ungenutztes Lied)
+Tewi Battle: 時の風 (unused track)
 
-Aya Kampf: 魔法決戦！　～ Fight it out!
+Aya Battle: 魔法決戦！　～ Fight it out!
 
-Medicine Kampf: Phantasmagoria (ungenutztes Lied)
+Medicine Battle: Phantasmagoria (unused track)
 
-Yuuka Kampf: 幽夢 ～ Inanimate Dream (ungenutzte Version aus th04)
+Yuuka Battle: 幽夢 ～ Inanimate Dream (unused track from th04)
 
-Komachi Kampf: Sailor of Time
+Komachi Battle: Sailor of Time
 
-Eiki Kampf: Strawberry Crisis!!
+Eiki Battle: Strawberry Crisis!!
 
 Dialog 1: 非統一魔法世界論
 
 Dialog 2: 魔法鐘愛
 
-Ende: 永遠の満月
+Ending: 永遠の満月
 
-Abspann: 霊人の休日
+Credits: 霊人の休日
 
 
 
 th095
 
-Hauptmenü: A Sacred Lot
+Main Menu: A Sacred Lot
 
 Stage 1: 永遠の巫女
 
@@ -206,9 +206,9 @@ Stage 5: 星幽天使
 
 # th07_ut_bgm
 
-th07 mit Musik aus Undertale.
+th07 with music from Undertale.
 
-Hauptmenü: Start Menu
+Main Menu: Start Menu
 
 Stage 1: Anticipation
 
@@ -244,14 +244,14 @@ Phantasm Stage: Amalgam
 
 Phantasm Boss: Megalovania
 
-Ende: Dogsong
+Ending: Dogsong
 
-Abspann: Good Night
+Credits: Good Night
 
 
 # Unhöfliche Okuu
 
-Macht Okuu in th11 etwas unhöflicher
+Makes Okuus hand looks more impolite
 
 
 # pc_98_reimu
@@ -261,13 +261,13 @@ Macht Okuu in th11 etwas unhöflicher
 
 # th17_doom_bgm
 
-th17 mit Musik aus Doom, Doom 2 und Final Doom TNT
+th17 with music from Doom, Doom 2 und Final Doom TNT
 
-Aufnahmen von Sycraft http://sycraft.org/content/audio/doom.shtml
+Tracks from Sycraft http://sycraft.org/content/audio/doom.shtml
 
-Komplette Trackliste:
+Tracklist:
 
-Hauptmenü: Evil Incarnete (Doom 2)
+Main Menu: Evil Incarnete (Doom 2)
 
 Stage 1: Smells like burning corpse (Final Doom)
 
@@ -281,9 +281,9 @@ Stage 3: I saw the demons (Doom)
 
 Boss 3: Hiding the secrets (Doom)
 
-Spielerscore: The ultimate conquest (Doom 2)
+Player Score: The ultimate conquest (Doom 2)
 
 
 # th13_spirit_bgm
 
-Ersetzt die Lieder durch die jeweiligen Spirit World Versionen.
+Replace the normal tracks with the spirit wolrd versions.
