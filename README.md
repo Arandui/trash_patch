@@ -254,10 +254,6 @@ Credits: Good Night
 Makes Okuus hand looks more impolite
 
 
-# pc_98_reimu
-
-Ändert sämtliche Grafiken von Reimu um, so das sie wie in den PC98 Teilen aussieht.
-
 
 # th17_doom_bgm
 
